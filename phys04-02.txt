@@ -1,0 +1,23 @@
+2.
+a. 
+i. it won't accelerate what's wrong with u???? the force of gravity holding block A in place will also hold
+block B in place if its Fg is significantly more than A's Fg.
+ii. it will accelerate hella! the Fg of block A will be overwhelmed by block B's Fg.
+b. 
+         ^Fn                 ^Ft
+         |                   |
+         A-->Ft              B
+         |                   |
+         vFg                 vFg
+
+c. 
+If it's an atwood of any kind, it is 2 masses attached to a string.
+USE BLOB METHOD PLS.
+
+     
+      A B ->Fgb
+
+Fnet = Fgb
+ma = mBg
+(mA+mB)a = mBg
+*a=mBg/(mA+mB)*  
